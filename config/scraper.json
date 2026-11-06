@@ -1,0 +1,51 @@
+{
+  "userAgent": "TecknoworksJobScraper/1.0",
+  "requestTimeoutSec": 10,
+  "pageDelaySec": 1.0,
+  "retry": {
+    "maxAttempts": 5,
+    "baseDelaySec": 2.0,
+    "maxDelaySec": 60.0,
+    "retryStatus": [
+      429,
+      500,
+      502,
+      503,
+      504
+    ]
+  },
+  "rendering": {
+    "mode": "static",
+    "waitSelector": "",
+    "timeoutMs": 30000
+  },
+  "staleJobDeletion": false,
+  "manageCompany": true,
+  "defaultLocation": [
+    "Cluj-Napoca"
+  ],
+  "defaultWorkmode": "on-site",
+  "ownJobUrlPrefix": "https://apply.workable.com/j/",
+  "sources": {
+    "sitemap": "",
+    "listing": "https://apply.workable.com/api/v1/widget/accounts/tecknoworks?details=true",
+    "jobArchive": "https://apply.workable.com/j/"
+  },
+  "selectors": {
+    "jobArticle": [
+      "",
+      "[class*='job']",
+      ".vacancy, .position, .listing-item"
+    ],
+    "jobTitle": [
+      "",
+      "h1, h2, h3, h4",
+      "[itemprop='title'], [aria-label]",
+      "a"
+    ],
+    "jobMeta": [
+      "",
+      "p, .meta, [class*='deadline']"
+    ]
+  }
+}

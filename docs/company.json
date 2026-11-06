@@ -1,0 +1,17 @@
+{
+  "id": "14177704",
+  "company": "Tecknoworks Europe SRL",
+  "brand": "Tecknoworks",
+  "status": "activ",
+  "location": [
+    "Cluj-Napoca"
+  ],
+  "website": [
+    "https://tecknoworks.com"
+  ],
+  "career": [
+    "https://apply.workable.com/tecknoworks/"
+  ],
+  "scraperFile": "https://github.com/amaliatanase/tecknoworks-europe-python-scraper/actions/workflows/scrape.yml",
+  "ownJobUrlPrefix": "https://apply.workable.com/j/"
+}

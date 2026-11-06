@@ -1,0 +1,67 @@
+{
+  "validatedAt": "2026-11-06T09:31:39.817657+00:00",
+  "source": "ANAF",
+  "brand": "Tecknoworks",
+  "anaf": {
+    "cui": 14177704,
+    "name": "TECKNOWORKS EUROPE S.R.L.",
+    "address": "JUD. HUNEDOARA, MUN. DEVA, STR. AUREL VLAICU, NR.57",
+    "registrationNumber": "J2001000648207",
+    "phone": "0723355229",
+    "fax": "",
+    "postalCode": "",
+    "caenCode": "6210",
+    "iban": "",
+    "registrationState": "INREGISTRAT din data 14.09.2001",
+    "registrationDate": "2001-09-17",
+    "fiscalAuthority": "Administraţia Fiscală pentru Contribuabili Mijlocii - Hunedoara",
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT AUTOHTON",
+    "organizationForm": "PERSOANA JURIDICA",
+    "legalForm": "SOCIETATE COMERCIALĂ CU RĂSPUNDERE LIMITATĂ",
+    "vatRegistered": true,
+    "vatPeriods": [
+      {
+        "start": "2001-10-01",
+        "end": null,
+        "yearStart": "",
+        "message": ""
+      }
+    ],
+    "cashBasisVat": false,
+    "cashBasisVatStart": null,
+    "cashBasisVatEnd": null,
+    "inactive": false,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "splitVat": false,
+    "eFacturaRegistered": true,
+    "headquartersAddress": {
+      "street": "Str. Aurel Vlaicu",
+      "number": "57",
+      "locality": "Mun. Deva",
+      "county": "HUNEDOARA",
+      "country": "",
+      "postalCode": ""
+    },
+    "fiscalAddress": {
+      "street": "",
+      "number": "",
+      "locality": "",
+      "county": "",
+      "country": "",
+      "postalCode": ""
+    },
+    "administrators": [],
+    "authorizedCaenCodes": [],
+    "onrcStatus": 0,
+    "onrcStatusLabel": "Funcțiune"
+  },
+  "peviitor": null,
+  "summary": {
+    "company": "TECKNOWORKS EUROPE S.R.L.",
+    "cif": "14177704",
+    "active": true,
+    "inactiveSince": null,
+    "address": "JUD. HUNEDOARA, MUN. DEVA, STR. AUREL VLAICU, NR.57"
+  }
+}
