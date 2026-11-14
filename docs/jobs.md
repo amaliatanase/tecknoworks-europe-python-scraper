@@ -10,11 +10,11 @@
 | Location | JUD. HUNEDOARA, MUN. DEVA, STR. AUREL VLAICU, NR.57 |
 | Website | [https://tecknoworks.com](https://tecknoworks.com) |
 | Careers | [https://apply.workable.com/tecknoworks/](https://apply.workable.com/tecknoworks/) |
-| Last Scraped | 2026-11-13 |
+| Last Scraped | 2026-11-14 |
 
 ## Current Job Listings (2)
 
-_Generated: 2026-11-13T13:49:50.579863+00:00_
+_Generated: 2026-11-14T12:52:51.275561+00:00_
 
 ### Software Engineering Practice Lead
 
